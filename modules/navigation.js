@@ -1,5 +1,5 @@
 import {
-  contactLink, listOfBooks, booksection, listLink, contactSection, addNewLink, titleBookOne,
+  contactLink, listOfBooks, listLink, booksection, contactSection, addNewLink, titleBookOne,
 } from './variables.js';
 
 const navigation = () => {
