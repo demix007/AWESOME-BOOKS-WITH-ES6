@@ -4,7 +4,7 @@ const booksection = document.querySelector('.add-book');
 const contactSection = document.querySelector('.contact');
 const addNewLink = document.querySelector('.add-new');
 const titleBookOne = document.querySelector('.books-title');
-const listLink = document.querySelector('.list')
+const listLink = document.querySelector('.list');
 
 export {
   contactLink, listOfBooks, booksection, listLink, contactSection, addNewLink, titleBookOne,
